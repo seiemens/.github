@@ -1,7 +1,7 @@
-![header](./top.png)
+![header](./profile/top.png)
 
 <h1 align="center">
 # *We are shit.*
 </h1>
 
-![footer](./bottom.png)
+![footer](./profile/bottom.png)
