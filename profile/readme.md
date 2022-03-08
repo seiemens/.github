@@ -1,7 +1,7 @@
 ![header](./top.png)
 
 <h1 align="center">
-# *We are shit.*
+  <i>*We are jackshit.</i>
 </h1>
 
 ![footer](./bottom.png)
