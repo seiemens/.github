@@ -1,6 +1,6 @@
 ![header](./profile/top.png)
 
-<h1 align="center">
+<h1 align="center" style="background-color:white;">
   <i>We are jackshit.</i>
 </h1>
 
