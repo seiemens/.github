@@ -1,7 +1,7 @@
 ![header](./profile/top.png)
 
 <h1 align="center">
-  <i>We are jackshit.</i>
+  <i>nous sommes mentalement en retard.</i>
 </h1>
 
 ![footer](./profile/bottom.png)
